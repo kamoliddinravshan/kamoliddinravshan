@@ -7,7 +7,7 @@
 <h3 align="center">But at the moment I live in Samarkand </h3>
 <h3 align="center"></h3>
 
-- :trophy: I have over **2 years experience in QA**
+- :trophy: I have over **3 years experience in QA**
 
 - :hammer_and_wrench: I worked on different projects: **Web,Mobile,Desktop** as a manual QA and **Web,Mobile(UI)** as a automation QA
 
