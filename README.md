@@ -65,9 +65,9 @@
 _Thank you for your attention_
 ___
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamoliddinravshan&theme=great-gatsby&show_icons=true&v=1" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamoliddinravshan&theme=great_gatsby" alt="Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamoliddinravshan&theme=great-gatsby&layout=compact&v=1" alt="Top Langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=kamoliddinravshan&theme=great_gatsby" alt="Languages" />
 </p>
