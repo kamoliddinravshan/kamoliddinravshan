@@ -69,5 +69,16 @@ ___
 </p>
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/kamoliddinravshan?template=classic&base=0&plugin_languages=yes&plugin_languages_details=percentage&plugin_languages_limit=8&config_theme=tokyonight" alt="Languages Metrics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kamoliddinravshan&theme=great-gatsby&show_icons=true&locale=en" alt="Stats" />
+</p>
+
+### 💻 Texnologiyalar va Tillar
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
