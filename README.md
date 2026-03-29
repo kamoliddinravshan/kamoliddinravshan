@@ -9,7 +9,7 @@
 
 - :trophy: I have over **3 years experience in QA**
 
-- :hammer_and_wrench: I worked on different projects: **Web,Mobile,Desktop** as a manual QA and **Web,Mobile(UI)** as a automation QA
+- :hammer_and_wrench: I worked on different projects: **Web,Mobile,Desktop** as a manual QA and **Web,Mobile(UI API)** as a automation QA
 
 - :keyboard: I have been doing automation and programming for about **1 years**
 
