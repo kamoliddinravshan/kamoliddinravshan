@@ -64,9 +64,10 @@
 
 _Thank you for your attention_
 ___
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamoliddinravshan&theme=great-gatsby&show_icons=true&locale=en&layout=normal" alt="alexstark-spb" /></p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamoliddinravshan&layout=compact&theme=great-gatsby" alt="Kamoliddin's Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kamoliddinravshan&theme=great-gatsby&show_icons=true&locale=en" alt="Stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamoliddinravshan&theme=great-gatsby&layout=normal" alt="Top Langs" />
+</p>
