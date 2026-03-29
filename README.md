@@ -69,5 +69,5 @@ ___
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=kamoliddinravshan&theme=great_gatsby" alt="Languages" />
+  <img src="https://metrics.lecoq.io/kamoliddinravshan?template=classic&base=0&plugin_languages=yes&plugin_languages_details=percentage&plugin_languages_limit=8&config_theme=tokyonight" alt="Languages Metrics" />
 </p>
